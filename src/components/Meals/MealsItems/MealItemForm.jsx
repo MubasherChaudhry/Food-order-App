@@ -38,7 +38,7 @@ function MealItemForm(props) {
           defaultValue: "1",
         }}
       />
-      <button>&#x1F60D; Add &#x1F601;</button>
+      <button>&#x23E9; Add &#x23EA;</button>
       {!amountIsValid && <p> Please Enter a valid Quantity between 1 and 5</p>}
     </form>
   );

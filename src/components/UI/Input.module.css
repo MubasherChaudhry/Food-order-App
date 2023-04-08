@@ -11,8 +11,8 @@
 
 .input input {
   width: 3rem;
-  border-radius: 5px;
-  border: 1px solid #ccc;
+  border-radius: 15px;
+  border: 1px solid rgb(165, 250, 8);
   font: inherit;
   padding-left: 0.5rem;
 }

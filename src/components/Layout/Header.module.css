@@ -11,9 +11,18 @@
   justify-content: space-between;
   align-items: center;
   padding: 0 10%;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+  box-shadow: 5px 15px 8px rgba(144, 50, 50, 0.229);
   z-index: 10;
 }
+.h1{
+  Color:rgb(72, 218, 19);
+  font-family: 'Playball', cursive; ;
+}
+.h2{
+  Color:rgb(13, 176, 226);
+  font-family: 'Playball', cursive; 
+}
+
 
 .main-image {
   width: 100%;
